@@ -126,6 +126,9 @@ O NotebookLM foi utilizado principalmente para:
 
 A ferramenta foi tratada como **apoio ao processo de aprendizagem**, e não como substituta da análise das fontes.
 
+**Notebook utilizado no projeto:**  
+[Gestão de Estoques e Almoxarifado](https://notebook.google.com/notebook/9ae83022-d3eb-44a7-bb4e-a9a918013077)
+
 ---
 
 #  Engenharia de Prompts
